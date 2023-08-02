@@ -1,0 +1,81 @@
+// This theme is still not complete, but it is usable.
+{
+    "workbench.colorCustomizations": {
+        "focusBorder": "#A020F0",
+        "badge.foreground": "#fff",
+        "badge.background": "#A020F0",
+        // buttons
+        "button.background": "#A020F0",
+        "button.foreground": "#fff",
+        "button.hoverBackground": "#A020F088",
+        // inputs
+        // scroll bar
+        "scrollbarSlider.activeBackground": "#A020F088",
+        "scrollbarSlider.background": "#A020F044",
+        "scrollbarSlider.hoverBackground": "#A020F066",
+        // sidebar
+        "sideBar.background": "#111",
+        "sideBar.foreground": "#e7e7e7",
+        "sideBar.border": "#A020F0",
+        "sideBar.dropBackground": "#A020F0",
+        "sideBarTitle.foreground": "#fff",
+        "sideBarSectionHeader.background": "#000",
+        "sideBarSectionHeader.foreground": "#fff",
+        // title bar
+        "titleBar.activeBackground": "#000",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#4d4d4d99",
+        "titleBar.inactiveForeground": "#e7e7e799",
+        // tabs
+        "tab.activeBackground": "#000",
+        "tab.activeForeground": "#fff",
+        "tab.activeBorder": "#A020F0",
+        "tab.activeBorderTop": "#000",
+        // editor group
+        "editorGroupHeader.tabsBackground": "#A020F011",
+        // editor widget colors
+        "editorWidget.background": "#A020F011",
+        "editorWidget.border": "#A020F0",
+        // suggestion editor
+        "editorSuggestWidget.border": "#A020F0",
+        "editorSuggestWidget.foreground": "#fff",
+        "editorSuggestWidget.selectedBackground": "#000",
+        "editorHoverWidget.border": "#A020F0",
+        // editor
+        "editor.background": "#0001",
+        "editorLineNumber.activeForeground": "#fff",
+        // "editorCursor.foreground": "#A020F0",
+        "editor.selectionBackground": "#A020F033",
+        "editor.inactiveSelectionBackground": "#A020F077",
+        "editor.wordHighlightBackground": "#A020F044",
+        "editor.lineHighlightBackground": "#A020F030",
+        "editorOverviewRuler.border": "#A020F0",
+        // lateral
+        "editorGutter.background": "#A020F009",
+        //
+        "progressBar.background": "#A020F0",
+        "terminal.tab.activeBorder": "#A020F0",
+        "panel.border": "#A020F0",
+        "panelTitle.activeBorder": "#A020F0",
+        "panelTitle.inactiveForeground": "#e7e7e7",
+        "minimap.background": "#000",
+        "notifications.background": "#222",
+        "notificationToast.border": "#A020F0",
+        "notificationsInfoIcon.foreground": "#A020F0",
+        "notificationsErrorIcon.foreground": "#A020F0",
+        "notificationsWarningIcon.foreground": "#A020F0",
+        "notificationCenterHeader.background": "#A020F0",
+        "activityBar.activeBackground": "#222",
+        "activityBar.activeBorder": "#A020F0",
+        "activityBar.background": "#000",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#A020F0",
+        "activityBarBadge.foreground": "#fff",
+        "statusBar.background": "#A020F0",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.remoteBackground": "#A020F0",
+        "statusBarItem.remoteForeground": "#fff",
+        "statusBarItem.hoverBackground": "#000"
+    }
+}
